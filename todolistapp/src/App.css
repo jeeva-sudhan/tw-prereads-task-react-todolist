@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin:150px auto;
+  border:5px solid black;
+  width: 400px;
+}
+
+.Header {
+  text-align: center;
+  margin-right:20px;
+}
+
+.todotasks {
+  margin:auto 90px;
+  text-align: left;
+}
+
+.removeBtn {
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
